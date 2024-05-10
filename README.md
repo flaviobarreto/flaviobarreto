@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @flaviobarreto
-- 👀 I'm a C# software programmer | ASP NET CORE
+- 
+- I'm a C# software programmer | ASP NET CORE
 
 - Seja bem vindo, conheça um pouco da minha trajetória 
-#segue meu LinkedIn; 
+segue meu LinkedIn; 
 https://www.linkedin.com/in/flavioaugusto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
