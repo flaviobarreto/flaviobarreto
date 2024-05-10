@@ -3,7 +3,7 @@
 
 - Seja bem vindo, conheça um pouco da minha trajetória 
 segue meu LinkedIn; 
-https://www.linkedin.com/in/flavioaugusto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+## https://www.linkedin.com/in/flavioaugusto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
 
