@@ -3,30 +3,8 @@
 
 - Seja bem vindo, conheça um pouco da minha trajetória 
 #segue meu LinkedIn; 
+https://www.linkedin.com/in/flavioaugusto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-public class UserService
-{
-    private readonly IUserRepository _userRepository;
-
-    public UserService(IUserRepository userRepository)
-    {
-        _userRepository = userRepository;
-    }
-
-    // Restante da implementação do UserService
-}
-
-public class SomeOtherClass
-{
-    private readonly IUserRepository _userRepository;
-
-    public SomeOtherClass(IUserRepository userRepository)
-    {
-        _userRepository = userRepository;
-    }
-
-    // Restante da implementação de SomeOtherClass
-}
 
 
 <!---
