@@ -1,32 +1,34 @@
-# Olá, eu sou Flávio Barreto! 👋
+# Hi there, I'm Flávio Barreto! 👋
 
-Desenvolvedor Backend com expertise em várias tecnologias e apaixonado por criar soluções de alta qualidade e desempenho. Sou um entusiasta da programação e estou sempre em busca de novos desafios.
+Backend Developer with a passion for crafting high-quality and efficient solutions. Always eager to tackle new challenges and continuously improving my skills.
 
-## Ferramentas e Tecnologias
+## Tools & Technologies
 
-### Linguagens e Frameworks
+### Languages & Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlserver/sqlserver-original-wordmark.svg" width="40" height="40" alt="SQL Server" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="jQuery" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" title=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core" title=".NET Core"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlserver/sqlserver-original-wordmark.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="jQuery" title="jQuery"/>
+</p>
 
-### Conceitos e Metodologias
+### Concepts & Methodologies
 
-- **Orientação a Objetos** (OOP)
+- **Object-Oriented Programming** (OOP)
 - **Microservices**
 - **Clean Code**
-- **Entity Framework Core (EF Core)**
-- **Desenvolvimento Ágil** (Scrum)
+- **Entity Framework Core** (EF Core)
+- **Agile Development** (Scrum)
 
-## Estatísticas
+## GitHub Stats
 
 <div>
 <a href="https://github.com/flaviobarreto">
@@ -34,13 +36,13 @@ Desenvolvedor Backend com expertise em várias tecnologias e apaixonado por cria
 </a>
 </div>
 
-## Contatos
+## Connect with Me
 
-<div>
+<p>
 <a href="mailto:flavioaugusto32@gmail.com">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/flavioaugusto?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>   
-</div>
+<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
+</a>
+</p>
